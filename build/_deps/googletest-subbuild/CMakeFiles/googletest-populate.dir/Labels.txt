@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+C:/Users/admin/VScode/OOP/lab5/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+C:/Users/admin/VScode/OOP/lab5/build/_deps/googletest-subbuild/CMakeFiles/41818513a28986913d98b6792aacb233/googletest-populate.rule
+C:/Users/admin/VScode/OOP/lab5/build/_deps/googletest-subbuild/CMakeFiles/926c84494aa74ff2dfcf6f650e3e14ac/googletest-populate-complete.rule
+C:/Users/admin/VScode/OOP/lab5/build/_deps/googletest-subbuild/CMakeFiles/26ac0412e6626ff1e79915f9d2a0c845/googletest-populate-build.rule
+C:/Users/admin/VScode/OOP/lab5/build/_deps/googletest-subbuild/CMakeFiles/26ac0412e6626ff1e79915f9d2a0c845/googletest-populate-configure.rule
+C:/Users/admin/VScode/OOP/lab5/build/_deps/googletest-subbuild/CMakeFiles/26ac0412e6626ff1e79915f9d2a0c845/googletest-populate-download.rule
+C:/Users/admin/VScode/OOP/lab5/build/_deps/googletest-subbuild/CMakeFiles/26ac0412e6626ff1e79915f9d2a0c845/googletest-populate-install.rule
+C:/Users/admin/VScode/OOP/lab5/build/_deps/googletest-subbuild/CMakeFiles/26ac0412e6626ff1e79915f9d2a0c845/googletest-populate-mkdir.rule
+C:/Users/admin/VScode/OOP/lab5/build/_deps/googletest-subbuild/CMakeFiles/26ac0412e6626ff1e79915f9d2a0c845/googletest-populate-patch.rule
+C:/Users/admin/VScode/OOP/lab5/build/_deps/googletest-subbuild/CMakeFiles/26ac0412e6626ff1e79915f9d2a0c845/googletest-populate-test.rule
+C:/Users/admin/VScode/OOP/lab5/build/_deps/googletest-subbuild/CMakeFiles/26ac0412e6626ff1e79915f9d2a0c845/googletest-populate-update.rule

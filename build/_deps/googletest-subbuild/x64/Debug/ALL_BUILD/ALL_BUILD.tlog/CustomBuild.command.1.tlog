@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\VSCODE\OOP\LAB5\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/admin/VScode/OOP/lab5/build/_deps/googletest-subbuild -BC:/Users/admin/VScode/OOP/lab5/build/_deps/googletest-subbuild --check-stamp-file C:/Users/admin/VScode/OOP/lab5/build/_deps/googletest-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
