@@ -1,33 +1,14 @@
 build/
-Build/
-x64/
-x86/
-
-.vs/
-*.sln
-*.vcxproj
-*.vcxproj.filters
-*.vcxproj.user
+*/build/
 
 CMakeCache.txt
 CMakeFiles/
-CMakeSettings.json
 cmake_install.cmake
+Makefile
 
 *.exe
 *.out
 
-*.lib
-*.a
-*.dll
-*.so
-
-.DS_Store
-Thumbs.db
-
-.idea/
 .vscode/
-*.code-workspace
-
-*.tmp
-*.temp
+*.vcxproj
+*.sln
